@@ -12,3 +12,4 @@ Things to work on:
 - Performance optimisation
 - Fix audio distortion when many voices are active
 - Work out how to create a graphical 'trail' effect for the coloured points
+- Potential project report
