@@ -9,6 +9,6 @@ Watch a demo here: https://youtu.be/e76cT6YAcnQ
 Things to work on:
 - User interface
 - Granular synthesis in poly~ object that will allow the user to load their own sample
-- Optimisation
+- Performance optimisation
 - Fix audio distortion when many voices are active
 - Work out how to create a graphical 'trail' effect for the coloured points
