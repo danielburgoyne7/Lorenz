@@ -2,7 +2,7 @@
 
 This is a work-in-progress.
 
-The project is an audio-visual program to synthesise data from a [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) as sound, in real-time. The parameters of the mapping scheme and Lorenz equations can be changed in real time.
+The project is an audio-visual program to synthesise [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) data to sound, in real-time. The parameters of the mapping scheme and Lorenz equations can be changed in real time.
 
 Watch a demo here: https://youtu.be/e76cT6YAcnQ
 
