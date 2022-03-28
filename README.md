@@ -17,3 +17,5 @@ Things to work on:
 - Fix audio distortion when many voices are active
 - Work out how to create a graphical 'trail' effect for the coloured points
 - Potential project report
+
+_Project created by Daniel Burgoyne_
